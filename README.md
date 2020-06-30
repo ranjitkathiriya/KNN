@@ -1,5 +1,16 @@
 # KNN
 
+
+# Language
+  * Python
+
+# Libs:
+  * Numpy
+  * Seaborn
+  * Pandas
+  * Sklearn
+  
+  
 You should use the training and test file from the classification folder in data.zip for Part 1.
 The training set contains 4000 training instances, while the test set contains 1000 test instances.
 Each instance is defined by a feature vector containing 10 feature values. The first 10 columns in
